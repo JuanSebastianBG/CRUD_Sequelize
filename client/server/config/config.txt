@@ -1,0 +1,11 @@
+
+--Instalar los paquetes
+Abrir terminal y escribir "npm install"
+
+--Iniciar el servidor DB
+
+ctrl + ñ
+y poner en terminal "node --watch server/server.js"
+
+--Iniciar el servidor apps
+Abrir otro terminal diferente y escribir "npm run dev"
