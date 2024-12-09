@@ -1,0 +1,7 @@
+--intalar las dependencias "npm install"
+
+--Iniciar servidor de la BD "node --watch server/server.js"
+
+--Iniciar servidor de la pagina "npm run dev"
+
+*Todo lo anterior cada uno en terminales diferentes*
